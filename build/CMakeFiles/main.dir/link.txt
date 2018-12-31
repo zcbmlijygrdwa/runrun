@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main  -L/usr/local/lib  -L/usr/X11R6/lib -Wl,-rpath,/usr/local/lib:/usr/X11R6/lib -lopencv_core -lopencv_calib3d -lopencv_imgproc -lopencv_highgui -lX11 

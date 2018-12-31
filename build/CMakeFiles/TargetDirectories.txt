@@ -1,0 +1,3 @@
+/home/elementary/runrun/build/CMakeFiles/rebuild_cache.dir
+/home/elementary/runrun/build/CMakeFiles/main.dir
+/home/elementary/runrun/build/CMakeFiles/edit_cache.dir
