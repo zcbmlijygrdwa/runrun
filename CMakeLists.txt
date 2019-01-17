@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 2.8)
 
 project(EssentialTest)
 
+add_compile_options(-std=c++11)
+
 #add_library(hello_shared SHARED libHelloSLAM.cpp)
 INCLUDE_DIRECTORIES(
 "/usr/local/include"

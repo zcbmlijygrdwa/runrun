@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 {
     if(argc!=3)
     {
-    cout<<"Usage: ./main 100 100"<<endl;
+    cout<<"Usage: ./main 100 140"<<endl;
     return 1;
     }
     int startX = 0;
